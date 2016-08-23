@@ -1,6 +1,1 @@
-platform: Any CPU
 configuration: Release
-build:
-  parallel: true
-  project: toast.sln
-  verbosity: detailed
